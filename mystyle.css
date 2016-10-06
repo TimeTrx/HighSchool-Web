@@ -1,0 +1,67 @@
+img.logo {
+height: 10%;
+width: 10%;}
+
+img.banner {
+max-height: 190px;
+width: 1600px;
+top: 15px;
+left: 225px;
+position: fixed;
+}
+
+#menu {
+line-height:50px;
+background-color:#eeeeee;
+height:600px;
+width:110px;
+float:left;
+padding:40px;
+text-align: left;
+}
+ul {
+list-style-type:none;
+}
+#footer{
+color: yellow;
+bottom: 5px;
+left: 50%;
+margin-right: -50%;
+transform: translate(-50%, -50%);
+position: fixed;
+}
+h1{
+color: yellow;
+left: 50%;
+margin-right: -50%;
+transform: translate(-50%, -50%);
+font-size: 50px;
+font-family: "Verdana";
+position: absolute;
+}
+
+#text{
+color: yellow;
+left: 50%;
+margin-right: -50%;
+transform: translate(-50%, -50%);
+top: 400px;
+position: absolute;
+}
+
+body{
+background-color: blue;
+}
+
+#email {
+background-color: orange;
+}
+
+#hours{
+color: yellow;
+left: 50%;
+margin-right: -50%;
+transform: translate(-50%, -50%);
+top: 600px;
+position: absolute;
+}
